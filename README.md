@@ -1,6 +1,6 @@
-# app
+# vue-cli多页面配置
 
-> A Vue.js project
+> 页面存放在view目录下
 
 ## Build Setup
 
@@ -26,5 +26,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
