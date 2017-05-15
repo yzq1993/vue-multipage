@@ -1,28 +1,24 @@
 # vue-cli多页面配置
 
-> 页面存放在view目录下
+##项目说明：
 
-## Build Setup
+项目基于vue-cli创建，可以作为vue-cli的多页面版使用
 
+##新建页面
+
+在 view文件下新建页面文件夹，文件夹需包括一个入口文件index.js和页面模板index.html，具体可以查看view目录下文件
+
+>新建页面后需重新运行 npm run dev
+
+## 用法
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 开发模式  localhost:8080
 npm run dev
 
-# build for production with minification
+# 打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
