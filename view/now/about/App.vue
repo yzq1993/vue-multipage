@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import myalert from '../../../src/js/index' 
+import myalert from '@/js/index' 
 export default {
   data(){
     return{

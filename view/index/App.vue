@@ -23,7 +23,7 @@ export default {
   components: {  }
 }
 </script>
-<style src='../../src/css/index.css'></style>
+<style src='@/css/index.css'></style>
 <style>
 	
 </style>
